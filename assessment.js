@@ -59,7 +59,7 @@ userNameInput.onkeydown = event =>{
     ' {userName}種のいいところはユニークさです。{userName}は言葉にできない良さを持っています、{userName}はユニークですね',
     ' {userName}種のいいところは用心深さです。{userName}の調理は蒸かす、潰す、薬品と混ぜるの工程をしなければ食べられないほどです。',
     ' {userName}種のいいところは渋さです。{userName}大人な味のため子供はお断りです。',
-    ' {userName}種のいいところは決断力です。{userName}が沼地で繁殖する、その大胆な決断は他のではまねできません。',
+    ' {userName}種のいいところは既視感です。{userName}をどこかで見た味わった感がとてもあります。',
     ' {userName}種のいいところは熱量です。{userName}の高カロリー具合は他の追随を許しません。',
  ];
  function assessment(userName){
